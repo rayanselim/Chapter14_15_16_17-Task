@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/University Of Windsor/4. Winter 2022/GitHub/Chapter14_15_16_17-Task/Tasks/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/University Of Windsor/4. Winter 2022/GitHub/Chapter14_15_16_17-Task/Tasks/app/src/main/res/layout/fragment_edit_task.xml" value="0.17135416666666667" />
+        <entry key="..\:/University Of Windsor/4. Winter 2022/GitHub/Chapter14_15_16_17-Task/Tasks/app/src/main/res/layout/task_item.xml" value="0.18541666666666667" />
         <entry key="..\:/Users/rayan/AndroidStudioProjects/Tasks/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
         <entry key="..\:/Users/rayan/AndroidStudioProjects/Tasks/app/src/main/res/layout/fragment_tasks.xml" value="0.18541666666666667" />
         <entry key="..\:/Users/rayan/AndroidStudioProjects/Tasks/app/src/main/res/layout/task_item.xml" value="0.18333333333333332" />
